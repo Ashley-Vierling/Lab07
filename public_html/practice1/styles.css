@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+    color: white;
+    font-family: Georgia;
+    font-size: 22pt;
+    background-image: url(sPsQiC4eFn5bZxMVqs6dLW.jpg);
+    background-size: 100%;
+}
+
+body:hover {
+    background-color: aquamarine;
+    color: peachpuff;
+    font-family: Helvetica;
+    font-size: 22pt;
+    background-image: url(52211883534_f45cb76810_z.jpg);
+    background-size: 100%;
+}
